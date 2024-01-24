@@ -8,4 +8,5 @@ Incluye:
 ![tpiiii](https://github.com/JoseEspinozaMiranda/Inventory-Control-System-Database/assets/59947991/9941baaf-9d0c-4540-a536-013d77f50e30)
 
 # INDICE DE ROTACION DE INVENTARIO
-![irsss](https://github.com/JoseEspinozaMiranda/Inventory-Control-System-Database/assets/59947991/b1d0ab7d-0434-4832-bd35-50105fb7a5a5)
+![IRS](https://github.com/JoseEspinozaMiranda/Inventory-Control-System-Database/assets/59947991/7d1d89a3-8630-40a8-bdbf-7bbae8649ce3)
+
