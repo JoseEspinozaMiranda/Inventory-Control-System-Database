@@ -1,6 +1,6 @@
 # Base de Datos del Sistema Web del Control de Inventario (Inventory Control System Database)
 Incluye:
-- Arhivo de base de datos.
+- Archivo de base de datos.
 # TABLAS DE LA BASE DE DATOS
 ![TABLAS](https://github.com/JoseEspinozaMiranda/Inventory-Control-System-Database/assets/59947991/53e1240c-12bc-438a-a637-530ffa30bb1f)
 
